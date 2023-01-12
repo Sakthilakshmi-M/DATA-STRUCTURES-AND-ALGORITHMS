@@ -4,3 +4,4 @@
 ---
 ## 1)ARRAYS
 * ### [Linear Search](https://github.com/Sakthilakshmi-M/DATA-STRUCTURES-AND-ALGORITHMS/blob/main/LinearSearch.java)
+* ###[Reversing an array](https://github.com/Sakthilakshmi-M/DATA-STRUCTURES-AND-ALGORITHMS/blob/main/ReverseArray.java)
